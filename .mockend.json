@@ -4,7 +4,7 @@
       "string": {}
     },
     "avatarUrl": {
-      "string": "http://localhost:3000/images/avatar.png"
+      "string": ["http://localhost:3000/images/avatar.png"]
     },
     "statusMessage": {
       "string": [
