@@ -4,7 +4,7 @@
       "string": {}
     },
     "avatarUrl": {
-      "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
+      "string": "http://localhost:3000/images/avatar.png"
     },
     "statusMessage": {
       "string": [
